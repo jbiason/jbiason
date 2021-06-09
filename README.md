@@ -8,6 +8,6 @@
 
 ## This is what CodersRank says about me
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jbiason&width=240)
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jbiason)
 
 ![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jbiason)
