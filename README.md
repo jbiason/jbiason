@@ -10,6 +10,8 @@ I work mainly with Python, but Rust is my new love.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbiason&layout=compact&theme=radical)
 
+#### Some not so "fancy" graphics
+
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jbiason)
 
 ![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jbiason)
