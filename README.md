@@ -16,5 +16,3 @@ I'm working in the field for 30+ years (yup, that's right) and wrote avout [some
 ## Some graphics
 
 ![](https://github-readme-stats.vercel.app/api?username=jbiason&count_private=true&show_icons=true&theme=radical&hide_title=true)
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jbiason)
